@@ -1,0 +1,9 @@
+'Main' model for Figure 2:    main_MRL_model.hdf5
+
+Retrained 'Main' model used in figure 4:    retrained_main_MRL_model.hdf5 
+
+The model used for the genetic algorithm:    evolution_model.hdf5
+
+The retrained genetic algorithm model:    retrained_evolution_model.hdf5
+
+The polysome distribution model from figure 2:    polysome_profile_model.hdf5
