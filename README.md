@@ -4,6 +4,8 @@ Predicting the impact of cis-regulatory sequence on gene expression is a foundat
 
 https://www.biorxiv.org/content/early/2018/04/29/310375
 
+![alt text](https://i.ibb.co/zJKyXy6/5-utr-modeling.png)
+
 All data can be found here: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE114002
 
 After cloning the repository, create a new directory named 'data' and place .CSVs from the GEO link above.
