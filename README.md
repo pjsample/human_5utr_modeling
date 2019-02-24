@@ -4,7 +4,9 @@ Predicting the impact of cis-regulatory sequence on gene expression is a foundat
 
 https://www.biorxiv.org/content/early/2018/04/29/310375
 
-![alt text](https://i.ibb.co/zJKyXy6/5-utr-modeling.png)
+<p align="center">
+  <img <img src="https://i.ibb.co/vqJjn0D/5-UTR-modeling.png" alt="5-UTR-modeling" border="0"/>
+</p>
 
 All data can be found here: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE114002
 
