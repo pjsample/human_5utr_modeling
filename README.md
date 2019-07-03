@@ -2,7 +2,7 @@
 
 Predicting the impact of cis-regulatory sequence on gene expression is a foundational challenge for biology. We combine polysome profiling of hundreds of thousands of randomized 5′ UTRs with deep learning to build a predictive model that relates human 5′ UTR sequence to translation. Together with a genetic algorithm, we use the model to engineer new 5′ UTRs that accurately target specified levels of ribosome loading, providing the ability to tune sequences for optimal protein expression. We show that the same approach can be extended to chemically modified RNA, an important feature for applications in mRNA therapeutics and synthetic biology. We test 35,000 truncated human 5′ UTRs and 3,577 naturally-occurring variants and show that the model accurately predicts ribosome loading of these sequences. Finally, we provide evidence of 47 SNVs associated with human diseases that cause a significant change in ribosome loading and thus a plausible molecular basis for disease.
 
-https://www.biorxiv.org/content/early/2018/04/29/310375
+https://www.nature.com/articles/s41587-019-0164-5#MOESM5
 
 <p align="center">
   <img <img src="https://i.ibb.co/vqJjn0D/5-UTR-modeling.png" alt="5-UTR-modeling" border="0"/>
